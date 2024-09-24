@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm SABESHPRANITH J</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabesh-7&label=Profile%20views&color=0e75b6&style=flat" alt="sabesh-7" /> </p>
-
 - 📫 How to reach me **sabeshpranith@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
