@@ -56,7 +56,7 @@ Bannari Amman Institute of Technology (2023–2027)
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:sabeshpranith@gmail.com">
+<a href="mailto:[sabeshpranith@gmail.com](mailto:sabeshpranith@gmail.com)">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -177,9 +177,9 @@ Retrieval-Augmented Generation platform for intelligent survey generation.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=Sabesh-7&show_icons=true&theme=tokyonight&hide_border=true)[Sabesh-7](https://github-readme-stats.vercel.app/api?username=Sabesh-7&show_icons=true&theme=tokyonight&hide_border=true)[&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Sabesh-7&show_icons=true&theme=tokyonight&hide_border=true)"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Y](https://github-readme-stats.vercel.app/api/top-langs/?username=YSabesh-7&layout=compact&theme=tokyonight&hide_border=true)[Sabesh-7](https://github-readme-stats.vercel.app/api/top-langs/?username=YSabesh-7&layout=compact&theme=tokyonight&hide_border=true)[&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=YSabesh-7&layout=compact&theme=tokyonight&hide_border=true)"/>
 
 </p>
 
@@ -189,7 +189,7 @@ Retrieval-Augmented Generation platform for intelligent survey generation.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="[https://streak-stats.demolab.com?user=Y](https://streak-stats.demolab.com?user=YSabesh-7&theme=tokyonight&hide_border=true)[Sabesh-7](https://streak-stats.demolab.com?user=YSabesh-7&theme=tokyonight&hide_border=true)[&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com?user=YSabesh-7&theme=tokyonight&hide_border=true)"/>
 
 </p>
 
@@ -199,7 +199,7 @@ Retrieval-Augmented Generation platform for intelligent survey generation.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sabesh-7&theme=tokyo-night"/>
 
 </p>
 
@@ -209,7 +209,7 @@ Retrieval-Augmented Generation platform for intelligent survey generation.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=](https://github-profile-trophy.vercel.app/?username=Sabesh-7&theme=tokyonight&no-frame=true&margin-w=15)[Sabesh-7](https://github-profile-trophy.vercel.app/?username=Sabesh-7&theme=tokyonight&no-frame=true&margin-w=15)[&theme=tokyonight&no-frame=true&margin-w=15](https://github-profile-trophy.vercel.app/?username=Sabesh-7&theme=tokyonight&no-frame=true&margin-w=15)"/>
 
 </p>
 
@@ -220,7 +220,7 @@ Retrieval-Augmented Generation platform for intelligent survey generation.
 > Enable the popular **GitHub Actions snake animation** in your profile repository and replace the placeholder below with the generated SVG.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+<img src="[https://raw.githubusercontent.com/Y](https://raw.githubusercontent.com/YSabesh-7/Sabesh-7/output/github-contribution-grid-snake.svg)[Sabesh-7](https://raw.githubusercontent.com/YSabesh-7/Sabesh-7/output/github-contribution-grid-snake.svg)[/](https://raw.githubusercontent.com/YSabesh-7/Sabesh-7/output/github-contribution-grid-snake.svg)[Sabesh-7](https://raw.githubusercontent.com/YSabesh-7/Sabesh-7/output/github-contribution-grid-snake.svg)[/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/YSabesh-7/Sabesh-7/output/github-contribution-grid-snake.svg)" alt="Contribution Snake"/>
 </p>
 
 ---
