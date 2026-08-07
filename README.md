@@ -1,85 +1,150 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B+I'm+Sabesh+Pranith;Java+Backend+Developer;Spring+Boot+%7C+Microservices;Building+Scalable+Backend+Systems;AI-Powered+Software+Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Sabesh%20Pranith&fontSize=54&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Sabesh%20Pranith&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Java%20Backend%20Developer%20|%20Spring%20Boot%20|%20AI%20Systems&descAlignY=60"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&duration=2500&center=true&vCenter=true&width=900&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices;REST+API+Designer;AI-Powered+Backend+Systems;Always+Building.+Always+Learning."/>
+
+<br>
+
+<p>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sabeshpranith@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=Sabesh-7&style=for-the-badge&color=0e75b6"/>
+</p>
 
 </div>
 
-<p align="center">
-<a href="https://github.com/Sabesh-7"><img src="https://img.shields.io/github/followers/Sabesh-7?style=for-the-badge&logo=github"></a>
-<a href="mailto:sabeshpranith@gmail.com"><img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-</p>
-
-💫 About Me
+💻 About Me
 
 public class SabeshPranith {
 
     String role = "Java Backend Developer";
 
-    String[] skills = {
+    String[] coreSkills = {
         "Java",
         "Spring Boot",
         "Microservices",
         "REST APIs",
-        "PostgreSQL",
-        "Spring Security"
+        "Spring Security",
+        "PostgreSQL"
     };
 
     String[] interests = {
-        "AI Systems",
-        "Workflow Automation",
+        "System Design",
         "Distributed Systems",
-        "System Design"
+        "Workflow Automation",
+        "Artificial Intelligence"
     };
 
-    String currentFocus = "Building scalable backend applications.";
+    String currentMission =
+        "Building scalable backend systems that solve real-world problems.";
+
+    boolean openToWork = true;
 }
 
 🎓 B.Tech Information Technology @ Bannari Amman Institute of Technology
 
-💻 Backend developer passionate about clean architecture
+🚀 Passionate about scalable backend engineering
 
-🤖 Interested in AI + Backend Engineering
+🤖 Building intelligent backend applications using AI
 
-🌱 Currently learning Docker, Kubernetes & Distributed Systems
-
-📫 Reach me: sabeshpranith@gmail.com
-
-🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql,git,github,docker,postman,js,c"/>
-</p>
-
-Backend
-
-Spring Boot • Spring Security • REST APIs • JWT • JPA/Hibernate • Microservices
-
-AI
-
-RAG • Ollama • Qwen • pgvector • NLP
+🌱 Learning Docker, Kubernetes and Cloud technologies
 
 🚀 Featured Projects
 
 🔥 Smart Workflow Rule Engine
 
-Backend automation platform supporting secure REST APIs, JWT authentication, SpEL-based rule execution, webhook integration and execution analytics.
+Enterprise workflow automation platform built with Spring Boot.
 
-Tech: Java • Spring Boot • PostgreSQL • Spring Security • JWT
+✨ Highlights
 
-🤖 COTS AI – Component Selection & Product Configuration System
+Dynamic rule execution using Spring Expression Language (SpEL)
 
-AI-powered backend that transforms engineering requirements into optimized component configurations using NLP and multi-objective optimization.
+Secure authentication with Spring Security & JWT
 
-Tech: Java • PostgreSQL • NLP • CSP • NSGA-II
+Priority-based workflow engine
+
+Webhook integration
+
+Execution analytics & audit logs
+
+PostgreSQL-backed architecture
+
+Tech
+
+Java Spring Boot Spring Security JWT REST APIs PostgreSQL
+
+🤖 COTS AI — Component Selection & Product Configuration
+
+AI-powered engineering platform that transforms natural language requirements into optimized component recommendations.
+
+✨ Highlights
+
+NLP-based requirement extraction
+
+Constraint Satisfaction Problem (CSP) solver
+
+NSGA-II multi-objective optimization
+
+Pareto ranking engine
+
+Industrial component catalog management
+
+Tech
+
+Java PostgreSQL NLP Optimization
 
 🧠 AI-Powered Smart Survey Platform
 
-Retrieval-Augmented Generation platform with semantic search, vector database support and locally hosted LLM integration.
+Retrieval-Augmented Generation platform for intelligent survey creation and semantic search.
 
-Tech: Python • PostgreSQL • pgvector • Ollama • Qwen • SQLAlchemy
+✨ Highlights
+
+Semantic search using pgvector
+
+RAG architecture
+
+Ollama + Qwen integration
+
+Duplicate detection
+
+Modular AI pipeline
+
+Audit logging
+
+Tech
+
+Python PostgreSQL pgvector Ollama Qwen
+
+⚙️ Tech Stack
+
+Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c"/>
+</p>
+
+Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring,hibernate"/>
+</p>
+
+Spring Boot • REST APIs • Spring Security • JWT • JPA • Microservices
+
+Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman"/>
+</p>
 
 📊 GitHub Analytics
 
@@ -97,42 +162,42 @@ Tech: Python • PostgreSQL • pgvector • Ollama • Qwen • SQLAlchemy
 </p>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sabesh-7&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sabesh-7&theme=tokyonight&no-frame=true&margin-w=12"/>
 </p>
 
-🏅 Achievements
+🏆 Achievements
 
-🏆 Finalist (Top 25 Teams) – Statathon 2025
+🥇 Finalist (Top 25 Teams) — Statathon 2025
 
-🏆 Final Round – Techgium National Innovation Competition
+🥇 Final Round — Techgium National Innovation Competition
 
-👨‍🏫 Student Trainer – C Programming & Problem Solving
+👨‍🏫 Student Trainer — Programming & Problem Solving
 
-📚 Currently Learning
+🌱 Currently Learning
 
-Advanced Spring Boot
+Docker
+
+Kubernetes
 
 Distributed Systems
 
-Docker & Kubernetes
+Cloud-Native Java
 
 Event-Driven Architecture
 
-Cloud-Native Backend Development
-
-🌐 Connect
+📬 Let's Connect
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-<a href="mailto:sabeshpranith@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:sabeshpranith@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 🐍 Contribution Snake
-
-Enable the GitHub Action from Platane's contribution-snake project, then use:
-
 ![](https://raw.githubusercontent.com/Sabesh-7/Sabesh-7/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
-</p>
+"Clean Architecture • Scalable Systems • Continuous Learning"
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F2027,50:203A43,100:2C5364"/>
+
+</div>
